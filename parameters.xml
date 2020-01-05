@@ -1,0 +1,9 @@
+<root>
+	<parameters>
+		<cdrin>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\LTE_ASN_Converter\cdrsin\</cdrin>
+		<cdrout>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\LTE_ASN_Converter\cdrsout\</cdrout>
+		<cdroutext>csv</cdroutext>
+		<maxCDRFilesToRead>100</maxCDRFilesToRead>
+		<log4jPath>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\LTE_ASN_Converter\log4j.properties</log4jPath>
+	</parameters>
+</root>
